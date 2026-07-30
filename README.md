@@ -1,14 +1,10 @@
-# DataForge
+# 🚀 DataForge
 
 ## Enterprise Data Engineering Platform
 
-DataForge is a production-style end-to-end Data Engineering platform built to simulate real-world enterprise data pipelines.
+DataForge is a production-style Data Engineering project built to learn and implement modern data engineering concepts through real-world pipelines.
 
-## Vision
-
-Build one enterprise-grade project covering modern Data Engineering technologies from beginner to advanced level.
-
-## Technologies
+## 🛠️ Tech Stack
 
 - Python
 - SQL
@@ -18,16 +14,34 @@ Build one enterprise-grade project covering modern Data Engineering technologies
 - Azure
 - Apache Airflow
 - Power BI
+- Apache Spark
+- Apache Kafka
 - Docker
-- Spark
-- Kafka
 - FastAPI
 - Git & GitHub
 
-## Current Sprint
+## 📅 Current Sprint
 
-Sprint 0 – Project Foundation
+**Sprint 1 – Enterprise Data Generator**
 
-## Project Status
+Current Module:
+- 🚧 Customer Data Generator
 
-🟢 In Progress
+## 📂 Project Structure
+
+```text
+src/        → Source code
+data/       → Raw, processed & warehouse data
+docs/       → Documentation
+config/     → Configuration files
+tests/      → Test cases
+```
+
+## 📌 Project Status
+
+- ✅ Sprint 0 – Project Foundation
+- 🚧 Sprint 1 – In Progress
+
+---
+
+**Author:** Harshini A
