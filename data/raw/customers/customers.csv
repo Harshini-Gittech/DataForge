@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,gender,date_of_birth,email,phone,city,state,country,registration_date,status
+CUST000001,Osha,Dugar,Female,1984-04-12,divya79@example.org,9899334635,Indore,Karnataka,India,2026-01-15,Active
+CUST000002,Gaurangi,Gole,Male,1969-02-04,memonkavya@example.net,9020572479,Ongole,Karnataka,India,2026-05-19,Inactive
+CUST000003,Hiral,Walia,Female,2002-11-20,rdin@example.net,09671885367,Solapur,Karnataka,India,2026-03-30,Active
+CUST000004,Irya,Buch,Male,2002-11-08,sanghviarya@example.org,9754913583,Sangli-Miraj & Kupwad,Karnataka,India,2026-05-05,Inactive
+CUST000005,Laksh,Dhar,Male,1971-11-23,dugarethan@example.org,00232221015,Tumkur,Karnataka,India,2026-03-24,Inactive
+CUST000006,Abhiram,Kakar,Female,1994-12-24,raviyashawini@example.net,05794869695,Bhusawal,Karnataka,India,2026-03-30,Active
+CUST000007,Vivaan,Babu,Female,1980-02-03,lakshdhar@example.com,00859053618,Dhanbad,Karnataka,India,2026-06-01,Active
+CUST000008,Irya,Lala,Male,1989-10-19,qbose@example.com,8191788754,Nagpur,Karnataka,India,2026-06-03,Active
+CUST000009,Dakshesh,Anne,Male,1997-09-23,krish85@example.org,00929272472,Bharatpur,Karnataka,India,2026-07-21,Active
+CUST000010,Vasatika,Prabhu,Male,1970-09-28,ekalingamangal@example.org,+914049997222,Thanjavur,Karnataka,India,2026-04-25,Active
