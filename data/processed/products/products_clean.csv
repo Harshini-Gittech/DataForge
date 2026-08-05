@@ -1,0 +1,101 @@
+product_id,product_name,category,brand,price,stock_quantity,supplier,created_date
+PROD000001,Ullam,Home & Kitchen,Prestige,1263.37,182,Butala-Contractor,2026-03-21
+PROD000002,Molestiae,Beauty,Lakme,536.18,494,"Dass, Pandit and Sarna",2026-07-18
+PROD000003,Facere,Home & Kitchen,Prestige,1020.26,162,Tara-Wali,2026-02-24
+PROD000004,Delectus,Fashion,Adidas,1366.17,374,Rama-D’Alia,2026-06-16
+PROD000005,Modi,Beauty,Nivea,4342.81,100,Ahluwalia-Gera,2026-02-07
+PROD000006,Hic,Fashion,Puma,4967.29,465,Sidhu-Oza,2026-06-18
+PROD000007,Pariatur,Books,HarperCollins,2948.14,422,Dhaliwal-Gade,2026-02-10
+PROD000008,Mollitia,Home & Kitchen,Philips,187.08,248,Krishnan-Sahota,2026-01-27
+PROD000009,Officia,Home & Kitchen,Prestige,3711.13,286,Andra-Munshi,2026-05-08
+PROD000010,Cumque,Electronics,HP,2567.14,178,"Palla, Chakrabarti and Lal",2026-03-18
+PROD000011,Accusantium,Fashion,Adidas,2310.35,494,"Keer, Buch and Kara",2026-05-23
+PROD000012,Optio,Books,O'Reilly,4324.75,101,"Sarin, Pau and Oommen",2026-05-15
+PROD000013,Molestias,Home & Kitchen,Prestige,4527.95,335,Pant-Karnik,2026-05-04
+PROD000014,Ipsum,Books,HarperCollins,3736.63,246,"Pau, Dube and Keer",2026-02-21
+PROD000015,Modi,Home & Kitchen,Philips,3001.91,245,"Shere, Borra and Mahal",2026-04-01
+PROD000016,Magni,Home & Kitchen,Pigeon,875.69,283,Sankaran PLC,2026-04-09
+PROD000017,Ab,Electronics,Samsung,521.05,441,Kapur-Kari,2026-04-08
+PROD000018,Libero,Fashion,Nike,1365.37,364,Ranganathan-Natt,2026-04-05
+PROD000019,Veritatis,Electronics,Samsung,2334.99,318,Mane Inc,2026-04-15
+PROD000020,Voluptatem,Books,O'Reilly,4133.27,301,Sanghvi-Sehgal,2026-07-16
+PROD000021,Temporibus,Fashion,Puma,2549.49,182,Prabhu-Hayer,2026-02-27
+PROD000022,Blanditiis,Home & Kitchen,Pigeon,3906.65,305,"Patla, Bobal and Mody",2026-06-08
+PROD000023,Sapiente,Electronics,Sony,3973.22,436,"Butala, Sanghvi and Dugal",2026-07-22
+PROD000024,Tenetur,Beauty,L'Oréal,1025.17,14,Venkataraman-Jhaveri,2026-04-18
+PROD000025,Fugiat,Books,O'Reilly,1609.83,96,"Bedi, Prabhakar and Ravel",2026-05-19
+PROD000026,Quam,Electronics,Logitech,4045.1,279,Pathak-Pingle,2026-07-03
+PROD000027,Placeat,Electronics,Samsung,1106.0,374,Mishra-Narain,2026-02-16
+PROD000028,Amet,Books,O'Reilly,3168.13,408,Thakkar and Sons,2026-06-13
+PROD000029,Perspiciatis,Books,Penguin,531.42,184,"Dhawan, Choudhary and Palla",2026-05-27
+PROD000030,Blanditiis,Books,Penguin,4720.91,468,"Bali, Bose and Pandit",2026-04-08
+PROD000031,Ducimus,Home & Kitchen,Prestige,2280.97,266,"Boase, Lad and Mody",2026-01-30
+PROD000032,Sunt,Books,Penguin,4776.82,249,"Kapur, Chawla and Andra",2026-01-01
+PROD000033,Beatae,Fashion,Nike,4448.31,249,Dass-Kapadia,2026-06-10
+PROD000034,Fuga,Beauty,Lakme,2368.65,490,"Pai, Rastogi and Jha",2026-06-14
+PROD000035,Repudiandae,Home & Kitchen,Philips,2874.98,438,Sabharwal Group,2026-01-15
+PROD000036,Enim,Home & Kitchen,Philips,1911.28,351,Sarna Ltd,2026-03-08
+PROD000037,Aperiam,Home & Kitchen,Philips,141.56,411,Bhattacharyya-Pal,2026-04-28
+PROD000038,Non,Fashion,Nike,4297.19,25,Babu PLC,2026-05-01
+PROD000039,Quos,Books,Penguin,4139.54,128,"Chakraborty, Magar and Murthy",2026-05-26
+PROD000040,Eligendi,Fashion,Puma,3445.47,441,"Kumar, Ranganathan and Dewan",2026-07-12
+PROD000041,Magnam,Fashion,Adidas,1710.89,286,"Uppal, Koshy and Pall",2026-02-01
+PROD000042,Tenetur,Books,Penguin,4547.54,487,Mody-Deshpande,2026-05-30
+PROD000043,Asperiores,Books,O'Reilly,4354.13,468,"Mammen, Sant and Madan",2026-07-16
+PROD000044,Totam,Books,HarperCollins,537.13,75,"Sanghvi, Malhotra and Patla",2026-06-21
+PROD000045,Commodi,Beauty,Nivea,434.88,194,Guha-Kashyap,2026-01-07
+PROD000046,Hic,Electronics,Sony,1716.49,342,"Suri, Kanda and Guha",2026-01-08
+PROD000047,Velit,Books,HarperCollins,1901.33,144,"Khosla, Bhasin and Dani",2026-06-21
+PROD000048,Distinctio,Beauty,L'Oréal,2375.95,438,Anand Ltd,2026-01-19
+PROD000049,Porro,Electronics,Sony,2744.18,408,"Rama, Raja and Mall",2026-04-07
+PROD000050,Atque,Books,HarperCollins,1690.61,171,"Tailor, Ganesh and Mallick",2026-02-20
+PROD000051,Voluptates,Home & Kitchen,Prestige,4702.67,236,Anne-Mand,2026-05-09
+PROD000052,Doloremque,Home & Kitchen,Philips,2735.84,313,"Ramanathan, Savant and Pillai",2026-06-03
+PROD000053,Numquam,Books,HarperCollins,1543.09,284,"Balan, Lall and Master",2026-01-01
+PROD000054,Dolore,Fashion,Puma,3692.89,202,Gaba PLC,2026-04-20
+PROD000055,Vel,Books,Penguin,2769.29,14,Kala LLC,2026-06-07
+PROD000056,Porro,Home & Kitchen,Pigeon,1927.32,384,Toor Ltd,2026-07-03
+PROD000057,Quaerat,Electronics,Logitech,4982.06,272,"Agrawal, Kothari and Narayanan",2026-02-24
+PROD000058,Fuga,Fashion,Puma,4149.62,149,Sekhon Inc,2026-06-12
+PROD000059,Quos,Fashion,Puma,2243.12,297,Morar-Biswas,2026-03-04
+PROD000060,Nisi,Beauty,L'Oréal,437.18,279,"Nair, Shetty and Tandon",2026-03-11
+PROD000061,Dolore,Electronics,HP,4491.28,160,Rai LLC,2026-03-09
+PROD000062,Ut,Home & Kitchen,Philips,2694.1,473,"Seshadri, Behl and Issac",2026-05-03
+PROD000063,Iste,Fashion,Nike,1614.88,338,Ahuja Group,2026-06-21
+PROD000064,Id,Electronics,Logitech,2139.0,74,Ravi Inc,2026-01-12
+PROD000065,Sit,Fashion,Nike,470.11,119,Patil-Nair,2026-03-23
+PROD000066,Temporibus,Electronics,HP,1469.3,433,Dalal-Oza,2026-01-29
+PROD000067,Magnam,Beauty,Lakme,1008.0,321,Dhar-Buch,2026-06-19
+PROD000068,Nemo,Beauty,Lakme,3011.81,311,Sidhu-Pingle,2026-05-02
+PROD000069,Ex,Beauty,Nivea,4461.6,122,"Parekh, Chadha and Khosla",2026-07-23
+PROD000070,Earum,Electronics,Logitech,1276.16,395,"Sha, Grover and Sastry",2026-05-27
+PROD000071,Ratione,Home & Kitchen,Prestige,2645.03,205,Keer PLC,2026-01-17
+PROD000072,Quia,Home & Kitchen,Pigeon,3600.34,112,More PLC,2026-04-27
+PROD000073,Nisi,Electronics,Sony,3009.61,483,Sanghvi-Nair,2026-02-22
+PROD000074,Rem,Fashion,Nike,498.42,71,Subramanian-Raval,2026-05-29
+PROD000075,Dicta,Electronics,HP,100.7,491,"Jha, Sarna and Lad",2026-03-19
+PROD000076,Labore,Home & Kitchen,Pigeon,4632.18,109,"Bakshi, Buch and Mittal",2026-02-20
+PROD000077,Rem,Home & Kitchen,Philips,4809.59,305,Mishra Inc,2026-04-05
+PROD000078,Iste,Home & Kitchen,Philips,567.54,12,"Zachariah, Kaul and Soni",2026-07-21
+PROD000079,Ipsa,Electronics,Samsung,549.84,464,"Patla, Minhas and Garg",2026-03-30
+PROD000080,Distinctio,Books,HarperCollins,1882.3,157,Narula-Jani,2026-03-30
+PROD000081,Voluptates,Home & Kitchen,Prestige,369.83,23,Gole-Sankaran,2026-04-10
+PROD000082,Dolore,Fashion,Nike,4989.51,80,Bhasin Group,2026-02-20
+PROD000083,Deserunt,Electronics,Sony,3204.31,79,"Gopal, Oak and Ramanathan",2026-01-13
+PROD000084,Beatae,Fashion,Puma,4773.25,54,"Chauhan, Nanda and Dani",2026-04-22
+PROD000085,Error,Books,Penguin,4866.07,34,Thaman LLC,2026-03-03
+PROD000086,Sunt,Fashion,Adidas,2513.83,233,"Kurian, Comar and Goel",2026-03-12
+PROD000087,Repellendus,Home & Kitchen,Philips,1354.89,439,Chakraborty and Sons,2026-03-11
+PROD000088,Maiores,Beauty,L'Oréal,4837.88,443,"Suresh, Date and Nanda",2026-01-04
+PROD000089,Distinctio,Electronics,HP,2372.53,25,Dutta Inc,2026-01-20
+PROD000090,Ad,Beauty,L'Oréal,1020.77,333,Pradhan PLC,2026-02-04
+PROD000091,Modi,Home & Kitchen,Pigeon,2970.48,151,Vala PLC,2026-07-05
+PROD000092,Provident,Electronics,HP,2015.95,329,Tandon-Anne,2026-04-25
+PROD000093,Eos,Beauty,Nivea,3383.62,128,Koshy-Bir,2026-05-21
+PROD000094,Alias,Beauty,Lakme,2374.41,13,Bir-Narasimhan,2026-07-18
+PROD000095,Veritatis,Books,Penguin,4726.62,200,"Dara, Hegde and Morar",2026-03-11
+PROD000096,Voluptate,Home & Kitchen,Philips,3110.71,145,Jayaraman-Kant,2026-06-10
+PROD000097,Eaque,Books,Penguin,3021.77,485,"Ahuja, Pau and Narayanan",2026-04-30
+PROD000098,Tenetur,Fashion,Nike,2255.52,170,Sabharwal-Sunder,2026-06-25
+PROD000099,Veritatis,Electronics,Logitech,3901.68,35,Bali PLC,2026-06-28
+PROD000100,Excepturi,Books,HarperCollins,3456.13,230,Dora-Shukla,2026-06-06
